@@ -39,3 +39,8 @@ li{
     font-weight: bolder;
     font-size: 18px;
 }
+
+img{
+    border-radius: 15px;
+    box-shadow: 20px auto;
+}
