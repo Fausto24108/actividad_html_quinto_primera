@@ -15,9 +15,17 @@ p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-h2{
-    color:blue;
+h1{
+    color: green;
+    font-style: italic;
     text-decoration: underline;
+    font-weight: bolder;
+}
+
+h2{
+    color: lightblue;
+    text-decoration: underline;
+    font-weight: bolder;
 }
 
 h3{
