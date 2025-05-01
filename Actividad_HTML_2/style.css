@@ -50,6 +50,11 @@ li{
     font-weight: bolder;
 }
 
+a{
+    color: lightgreen;
+    font-weight: bolder;
+}
+
 label{
     display: inline-block;
     margin-bottom: 10px;
