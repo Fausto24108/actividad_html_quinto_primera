@@ -55,6 +55,11 @@ a{
     font-weight: bolder;
 }
 
+img{
+    border-radius: 55px;
+    box-shadow: 20px auto;
+}
+
 label{
     display: inline-block;
     margin-bottom: 10px;
