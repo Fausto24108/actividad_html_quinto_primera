@@ -7,10 +7,12 @@ body{
     box-shadow: 100%,100%,100%;
 }
 
-h1{
-    color: green;
-    font-style: italic;
-    text-decoration: underline;
+p{
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: 20px;
+    text-shadow: 300px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h2{
