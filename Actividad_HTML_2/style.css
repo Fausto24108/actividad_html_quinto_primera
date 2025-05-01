@@ -16,9 +16,11 @@ p{
 }
 
 h1{
-    color: rgb(39, 212, 169);
+    color: lightseagreen;
     font-style: italic;
     text-decoration: underline;
+    font-size: 30px;
+    font-weight: bolder;
 }
 
 h2{
