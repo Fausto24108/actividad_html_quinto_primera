@@ -2,7 +2,7 @@ body{
     background-color: black;
     background-image: url(./Recursos/Fondopagina1.gif), url(./Recursos/Fondopagina2.gif);
     background-repeat: no-repeat,no-repeat;
-    background-size: 136%, 136%;
+    background-size: 205%, 205%;
     background-position: top,bottom;
     box-shadow: 100%,100%;
 }
