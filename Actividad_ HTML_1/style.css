@@ -1,8 +1,10 @@
 body{
-    background-color: lightgreen; 
-    background-image: url(./Recursos/Fondopagina.gif);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: black;
+    background-image: url(./Recursos/Fondo1.gif), url(./Recursos/Fondo2.gif), url(./Recursos/Fondo3.gif);
+    background-repeat: no-repeat,no-repeat,no-repeat;
+    background-size: 167%,150%,140%;
+    background-position: top,center,bottom;
+    box-shadow: 100%,100%,100%;
 }
 
 h1{
