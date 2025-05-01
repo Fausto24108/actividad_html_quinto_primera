@@ -29,8 +29,9 @@ h2{
 }
 
 h3{
-    color: purple;
+    color: lightcoral;
     text-decoration: underline;
+    font-weight: bolder;
 }
 
 li{
