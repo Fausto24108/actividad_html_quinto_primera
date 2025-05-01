@@ -44,3 +44,8 @@ img{
     border-radius: 15px;
     box-shadow: 20px auto;
 }
+
+a{
+    color: lightgreen;
+    font-weight: bolder;
+}
