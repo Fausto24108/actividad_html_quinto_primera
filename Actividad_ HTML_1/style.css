@@ -8,7 +8,7 @@ body{
 }
 
 p{
-    color: cyan;
+    color: cyant ;
     font-weight: bolder;
     font-size: 20px;
     text-shadow: 300px;
@@ -48,4 +48,8 @@ img{
 a{
     color: lightgreen;
     font-weight: bolder;
+}
+
+footer{
+    color: chartreuse;
 }
